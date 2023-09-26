@@ -23,4 +23,4 @@ Open our organization. It has many repositories with hacking resources and instr
 
 Happy hacking! 🎉✨
 
-By using VMenu, you accept our [Terms of Service](https://discord.gg/MnKSFFhVyT).
+By using VMenu, you accept our [Terms of Service](https://raw.githubusercontent.com/VesselMenu/.github/main/terms-of-service.txt).
