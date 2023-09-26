@@ -1,4 +1,4 @@
-<img src="profile/images/plus" width="150" alt="106 + VMenu">
+<img src="profile/images/plus.png" width="150" alt="106 + VMenu">
 
 # VMenu Hacks
 
