@@ -10,7 +10,7 @@ At VMenu, we specialize in creating hacks and modifications for i-Ready.
 
 ## Join Our Community
 
-We encourage you to join our [Discord Server](https://discord.gg/MnKSFFhVyT), where you can:
+We encourage you to join our [Discord](https://discord.gg/MnKSFFhVyT), where you can:
 
 - Get VMenu updates early!
 - Suggest Features!
