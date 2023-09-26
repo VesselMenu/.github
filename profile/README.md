@@ -1,6 +1,4 @@
-
-![image](https://github.com/VesselMenu/.github/assets/70281701/e462de6f-b2d5-488a-bfd4-fd21409c768e)
-
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/70281701/270740937-e462de6f-b2d5-488a-bfd4-fd21409c768e.png" width="150" alt="Transparent Image">
 
 # VMenu Hacks
 
@@ -8,7 +6,7 @@ Welcome to VMenu! 🚀
 
 ## About Us
 
-At VMenu, we specialize in creating hacks and modifications for i-Ready. 
+At VMenu, we specialize in creating hacks and modifications for i-Ready.
 
 ## Join Our Community
 
