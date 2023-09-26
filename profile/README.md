@@ -1,9 +1,9 @@
 
-![VMenu Logo](images/106.png) **+** ![i-Ready Logo](images/vmenu.png)
+images/106.png) **+** images/vmenu.png)
 
 # VMenu Hacks
 
-Welcome to the VMenu! 🚀
+Welcome to VMenu! 🚀
 
 ## About Us
 
