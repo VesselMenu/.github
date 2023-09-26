@@ -1,4 +1,4 @@
-<img src="![chrome_5Z0OA8P9ur-removebg-preview (1)](https://github.com/VesselMenu/.github/assets/70281701/f118f8a1-c096-48da-be87-53244ed4a17b)
+<img src="https://github.com/VesselMenu/.github/assets/70281701/f118f8a1-c096-48da-be87-53244ed4a17b
 " width="20" height="20"> **+** <img src="images/vmenu.png" width="20" height="20">
 
 # VMenu Hacks
