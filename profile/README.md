@@ -6,7 +6,7 @@ Welcome to VMenu! 🚀
 
 ## About Us
 
-At VMenu, we specialize in creating hacks and modifications for i-Ready.
+At VMenu, we specialize in creating hacks and modifications for i-Ready. If you get introbule from our hacks thats not our fault but its highly unlikley
 
 ## Join Our Community
 
